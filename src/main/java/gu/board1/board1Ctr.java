@@ -12,6 +12,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 
 @Controller
 public class board1Ctr {
+//테스트
 
     @Autowired
     private board1Svc boardSvc;
