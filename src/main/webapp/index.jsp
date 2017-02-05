@@ -4,5 +4,6 @@
 <body>
 <h2>게시판 샘플</h2>
 <a href="http://localhost:8088/board/board1List">게시판 1</a><br/>
+<a href="http://localhost:8088/board/board2List">게시판 2</a><br/>
 </body>
 </html>
