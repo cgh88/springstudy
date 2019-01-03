@@ -22,9 +22,9 @@
 		<tbody>
 <%
 	Class.forName("com.mysql.jdbc.Driver");
-	String url = "jdbc:mysql://localhost/board";
+	String url = "jdbc:mysql://localhost/test";
 	String id = "root"; 
-	String pw = "cho1704";
+	String pw = "amho0917";
 	Connection conn=DriverManager.getConnection(url,id,pw);
 	Statement stmt=conn.createStatement();
 	
